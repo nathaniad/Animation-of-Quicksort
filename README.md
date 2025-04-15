@@ -6,7 +6,7 @@ An animated, multithreaded visualization of the **Quick Sort algorithm** using J
 
 ## 🖼 Preview
 
-![Quick Sort Animation Screenshot](./preview.png)
+![Quick Sort Animation Screenshot](images/preview.png)
 
 ---
 
