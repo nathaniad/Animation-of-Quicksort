@@ -1,4 +1,4 @@
-# ⚡ Quick Sort Animation (Java + Swing)
+f# ⚡ Quick Sort Animation (Java + Swing)
 
 An animated, multithreaded visualization of the **Quick Sort algorithm** using Java Swing. This project visually demonstrates how Quick Sort recursively partitions and sorts data in-place. Designed to help students, educators, and enthusiasts **see the algorithm in action** — ideal for learning or teaching sorting algorithms.
 
@@ -6,7 +6,8 @@ An animated, multithreaded visualization of the **Quick Sort algorithm** using J
 
 ## 🖼 Preview
 
-![Quick Sort Animation Screenshot](./images/quickpreview.png)
+![Quick Sort Animation Screenshot]<img width="796" alt="Screenshot 2025-04-14 at 9 40 25 PM" src="https://github.com/user-attachments/assets/dd00fddb-4525-4b8f-bb94-f6f0e460fc57" />
+
 
 ---
 
